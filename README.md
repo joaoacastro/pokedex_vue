@@ -1,6 +1,6 @@
-# pokedex
-<img src="./src/img/prtsc/card.png" width="400px">
+# Pokedex
 <img src="./src/img/prtsc/inicial.png" width="400px">
+<img src="./src/img/prtsc/card.png" width="400px">
 <img src="./src/img/prtsc/search.png" width="400px">
 
 ## Project setup
