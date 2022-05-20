@@ -125,7 +125,7 @@
         </v-container>
       </v-card>
     </v-dialog>
-    <footer>.:Thanks for using my website | Developed by Jonny Castro:.</footer>
+    <footer>.:Thanks for using my website | Developed by João A. Castro:.</footer>
   </v-app>
 </template>
 
