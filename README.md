@@ -1,6 +1,5 @@
 # Pokedex
 <img src="./src/img/prtsc/inicial.png" width="400px">
-<img src="./src/img/prtsc/card.png" width="400px">
 <img src="./src/img/prtsc/search.png" width="400px">
 
 ## Project setup
@@ -25,10 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-#� �p�o�k�e�d�e�x�_�v�u�e�
-�
-�#� �p�o�k�e�d�e�x�_�v�u�e�
-�
-�#� �p�o�k�e�d�e�x�_�v�u�e�
-�
-�
